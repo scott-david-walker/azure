@@ -1,4 +1,4 @@
-module github.com/caddy-dns/azure
+module github.com/scott-david-walker/azure
 
 go 1.15
 
