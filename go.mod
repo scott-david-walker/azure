@@ -1,6 +1,6 @@
 module github.com/scott-david-walker/azure
 
-go 1.19
+go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.6.4
